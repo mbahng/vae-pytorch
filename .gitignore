@@ -1,2 +1,5 @@
 dataset/*
+!dataset/__init__.py
 __pycache__/
+saved/*
+**/.DS_Store
